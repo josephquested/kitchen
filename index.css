@@ -1,0 +1,54 @@
+body {
+  background-image: url("background.jpg");
+  background-repeat: repeat;
+  font-family: 'Cookie', cursive;
+  text-align: center;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 75%;
+    margin-top: 0px;
+    text-align:center;
+    resize: none;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+h2 {
+  font-size: 2.5em;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+main {
+  margin-top: 0px;
+  padding-bottom: 15px;
+  background:rgba(255,255,255,0.8);
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#submit {
+  font-family: 'Cookie', cursive;
+  background-color: white;
+  font-size: 2em;
+}
+
+#header {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 75px;
+  margin-top: 30px;
+  width: 80%;
+  background:rgba(255,255,255,0.9);
+}
